@@ -1,5 +1,5 @@
 # appel-gmod-x86
-A 32-bit C++ Garry's Mod hack fork
+32-bit C++ Garry's Mod hack fork
 
 ![script_tab](https://github.com/user-attachments/assets/606d8220-48ab-4c2c-8818-92991da12ce7)
 
@@ -28,6 +28,16 @@ This is a fork of FreeTheSkids by 1Lee, with much love, trial and error put into
 <summary>Visuals Tab</summary>
 
 ![vis_tab](https://github.com/user-attachments/assets/e74613de-c2fc-408a-af55-90da0b9d3354)
+
+**Fullbright:**
+![fullbright_vis](https://github.com/user-attachments/assets/3f0c8828-93d5-4a0c-804e-ccb636e517f9)
+
+**Rainbow map:**
+![rainbow_vis](https://github.com/user-attachments/assets/f96fee42-c04b-4537-a6b4-bd4c8a9ec6fe)
+
+**FreeCam:**
+![freecam_vis](https://github.com/user-attachments/assets/824a398b-21fd-4e33-9015-148b8ba79b09)
+
 </details>
 <details>
 <summary>Players Tab</summary>
@@ -53,6 +63,28 @@ This is a fork of FreeTheSkids by 1Lee, with much love, trial and error put into
 
 **Note**:
 - Doesn't support inputting cyrillic symbols. Copy-paste works fine.
+</details>
+
+<details>
+<summary>Auto Heal</summary>
+ 
+[o.webm](https://github.com/user-attachments/assets/08e21a85-6070-47ec-a7a1-f2b6d17c1385)
+</details>
+<details>
+<summary>Physgun Tricks</summary>
+ 
+[o1.webm](https://github.com/user-attachments/assets/1186e461-9961-41d6-a4ff-7546c9c82858)
+</details>
+<details>
+<summary>Lua Related</summary>
+ 
+ **`SendLua()` detection and blocking:**
+ 
+ ![sendlua1](https://github.com/user-attachments/assets/7e15a99c-d6e2-4a75-b2f2-f67e1a298b47)
+
+**Client Lua dumper:**
+
+![dumper](https://github.com/user-attachments/assets/924b3d8c-65de-44aa-a99c-ce68e9cd7711)
 </details>
 
 ## Compatibility
